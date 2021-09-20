@@ -1,0 +1,136 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Squishy/CPP NAGYHF/Koktel.cpp
+Koktel.h
+E:/Squishy/CPP NAGYHF/Koktel.h
+
+E:/Squishy/CPP NAGYHF/Koktel.h
+string
+-
+iomanip
+-
+utility
+-
+alapanyag.h
+E:/Squishy/CPP NAGYHF/alapanyag.h
+
+E:/Squishy/CPP NAGYHF/alapanyag.cpp
+alapanyag.h
+E:/Squishy/CPP NAGYHF/alapanyag.h
+
+E:/Squishy/CPP NAGYHF/alapanyag.h
+iostream
+-
+utility
+-
+memtrace.h
+E:/Squishy/CPP NAGYHF/memtrace.h
+
+E:/Squishy/CPP NAGYHF/econio.h
+stdbool.h
+-
+memtrace.h
+E:/Squishy/CPP NAGYHF/memtrace.h
+
+E:/Squishy/CPP NAGYHF/gtest_lite.h
+iostream
+-
+cassert
+-
+cmath
+-
+cstring
+-
+limits
+-
+string
+-
+fstream
+-
+memtrace.h
+E:/Squishy/CPP NAGYHF/memtrace.h
+
+E:/Squishy/CPP NAGYHF/koktel_tarolo.cpp
+koktel_tarolo.h
+E:/Squishy/CPP NAGYHF/koktel_tarolo.h
+
+E:/Squishy/CPP NAGYHF/koktel_tarolo.h
+fstream
+-
+Koktel.h
+E:/Squishy/CPP NAGYHF/Koktel.h
+
+E:/Squishy/CPP NAGYHF/main.cpp
+menurendszer.h
+E:/Squishy/CPP NAGYHF/menurendszer.h
+alapanyag.h
+E:/Squishy/CPP NAGYHF/alapanyag.h
+gtest_lite.h
+E:/Squishy/CPP NAGYHF/gtest_lite.h
+
+E:/Squishy/CPP NAGYHF/memtrace.h
+new
+-
+cstdio
+-
+stdlib.h
+-
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+list
+-
+map
+-
+algorithm
+-
+functional
+-
+memory
+-
+iomanip
+-
+locale
+-
+typeinfo
+-
+ostream
+-
+stdexcept
+-
+ctime
+-
+iterator
+-
+regex
+-
+
+E:/Squishy/CPP NAGYHF/menurendszer.cpp
+menurendszer.h
+E:/Squishy/CPP NAGYHF/menurendszer.h
+koktel_tarolo.h
+E:/Squishy/CPP NAGYHF/koktel_tarolo.h
+econio.h
+E:/Squishy/CPP NAGYHF/econio.h
+memtrace.h
+E:/Squishy/CPP NAGYHF/memtrace.h
+
+E:/Squishy/CPP NAGYHF/menurendszer.h
+iostream
+-
+string
+-
+iomanip
+-
+

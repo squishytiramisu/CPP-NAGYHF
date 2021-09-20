@@ -1,0 +1,24 @@
+Martini Henry
+3
+1
+Martini
+100
+szaraz
+15
+false
+2
+Tonic
+200
+true
+false
+3
+Citrom
+1
+true
+false
+true
+Gin
+0
+tamass2.dat
+tamass.dat
+0

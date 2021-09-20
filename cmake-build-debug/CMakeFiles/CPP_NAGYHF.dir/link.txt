@@ -1,0 +1,3 @@
+"D:\Git\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CPP_NAGYHF.dir/objects.a
+C:\Users\Balint\Downloads\mingw64\bin\ar.exe cr CMakeFiles\CPP_NAGYHF.dir/objects.a @CMakeFiles\CPP_NAGYHF.dir\objects1.rsp
+C:\Users\Balint\Downloads\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CPP_NAGYHF.dir/objects.a -Wl,--no-whole-archive  -o CPP_NAGYHF.exe -Wl,--out-implib,libCPP_NAGYHF.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CPP_NAGYHF.dir\linklibs.rsp

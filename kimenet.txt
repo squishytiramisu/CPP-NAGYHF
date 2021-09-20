@@ -1,0 +1,40 @@
+Koktel neve
+6Liquor
+Gin
+100
+szaraz
+4.5
+true
+6Liquor
+Nem Gin
+200
+szaraz
+4.1
+true
+&
+Koktel2
+6Liquor
+EZ XDDD
+100
+szaraz
+4.5
+true
+6Liquor
+EZ A MASODIK
+100
+szaraz
+4.5
+true
+9Garnishes
+Gigarnish
+10
+true
+true
+true
+5Mixer
+VIIIZ
+300
+true
+true
+true
+&

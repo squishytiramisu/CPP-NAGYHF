@@ -1,0 +1,28 @@
+Koktel neve
+6Liqour
+Gin
+100
+szaraz
+4.5
+true
+6Liqour
+Nem Gin
+200
+szaraz
+4.1
+false
+&
+Koktel2
+6Liqour
+EZ XDDD
+100
+szaraz
+4.5
+true
+6Liqour
+EZ A MASODIK
+100
+szaraz
+4.5
+true
+&
